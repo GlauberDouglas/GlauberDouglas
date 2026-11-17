@@ -1,8 +1,8 @@
 # Hi there! I'm Glauber Douglas 👋
 
-### Civil Engineer | MSc Researcher in Transportation Engineering | Technology Enthusiast
+### Civil Engineer | MSc Researcher in Transportation | Technology Enthusiast
 
-I'm a Brazilian Civil Engineer and a Master's student in **Transportation Engineering at the University of Brasília (UnB)**, with a professional background in public infrastructure, engineering management, and technology-driven solutions.
+I'm a Brazilian Civil Engineer and a Master's student in **Transportation at the University of Brasília (UnB)**, with a professional background in public infrastructure, engineering management, and technology-driven solutions.
 
 My interests lie at the intersection of **engineering, transportation systems, data analysis, and computational modeling**. I enjoy exploring how programming and technology can help solve real-world engineering challenges.
 
