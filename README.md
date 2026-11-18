@@ -50,4 +50,3 @@ I'm interested in collaborating on projects involving **transportation engineeri
 ---
 
 *Engineering solutions through research, data, and technology.*
-<!-- Teste de edição local e atualização no GitHub -->
