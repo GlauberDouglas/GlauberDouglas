@@ -45,7 +45,7 @@ I'm interested in collaborating on projects involving **transportation engineeri
 
 📍 Brasília, Brazil
 
-🌐 Languages: Portuguese (native) | English
+🌐 Languages: Portuguese (native) | English | Brazilian Sign Language
 
 ---
 
